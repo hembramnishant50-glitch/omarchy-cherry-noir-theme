@@ -1,0 +1,51 @@
+# Omarchy BTOP Theme - Pink Text
+
+# Main background (Empty for terminal transparency)
+theme[main_bg]=""
+theme[main_fg]="#f07a94"
+theme[inactive_fg]="#a06070"
+
+# Title and Highlights
+theme[title]="#f07a94"
+theme[hi_fg]="#ff7a94"
+theme[selected_bg]="#2a2a2a"
+theme[selected_fg]="#f07a94"
+
+theme[graph_text]="#f07a94"
+theme[proc_misc]="#ff7a94"
+
+# Box Borders
+theme[cpu_box]="#3a3a3a"
+theme[mem_box]="#3a3a3a"
+theme[net_box]="#3a3a3a"
+theme[proc_box]="#3a3a3a"
+theme[div_line]="#3a3a3a"
+
+# Temperature Gradient
+theme[temp_start]="#abe2e5"
+theme[temp_mid]="#f0b868"
+theme[temp_end]="#f07a94"
+
+# CPU Graph
+theme[cpu_start]="#abe2e5"
+theme[cpu_mid]="#f0b868"
+theme[cpu_end]="#f07a94"
+
+# Memory Graph
+theme[mem_start]="#6da8d8"
+theme[mem_mid]="#5fc8d4"
+theme[mem_end]="#f07a94"
+
+# Network Graph
+theme[net_start]="#5fc8d4"
+theme[net_mid]="#6da8d8"
+theme[net_end]="#f07a94"
+
+# Processes
+theme[proc_start]="#abe2e5"
+theme[proc_mid]="#f0b868"
+theme[proc_end]="#f07a94"
+
+# Bottom Bar
+theme[btm_bg]="#000000"
+theme[btm_fg]="#f07a94"

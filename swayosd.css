@@ -1,0 +1,21 @@
+@define-color background-color #1a1215;
+@define-color border-color #d9c2c8;
+@define-color label #d9c2c8;
+@define-color image #d9c2c8;
+@define-color progress #ea5e79;
+
+window#osd {
+  border-radius: 20px;
+}
+
+window#osd progressbar,
+window#osd trough,
+window#osd progress,
+window#osd segment,
+window#osd segmentedprogress {
+  border-radius: 999px;
+}
+
+window#osd label {
+  border-radius: 10px;
+}
